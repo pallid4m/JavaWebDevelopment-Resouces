@@ -5,8 +5,6 @@
 ## Задача 1
 Вычислите значение выражения по формуле:
 
-![](https://github.com/OlgaSmolyakova/JavaWebDevelopment-Resouces/blob/master/%D0%A2%D0%B5%D0%BC%D0%B0_04_%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87_%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B5%D0%B9%D1%88%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/pic/m4_t1.jpg)
-
 <p align="center">
   <img src="https://github.com/OlgaSmolyakova/JavaWebDevelopment-Resouces/blob/master/%D0%A2%D0%B5%D0%BC%D0%B0_04_%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87_%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B5%D0%B9%D1%88%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/pic/m4_t1.jpg" />
 </p>
@@ -20,7 +18,9 @@
 ## Задача 4
 Вычислить значение функции:
 
-![](https://github.com/OlgaSmolyakova/JavaWebDevelopment-Resouces/blob/master/%D0%A2%D0%B5%D0%BC%D0%B0_04_%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87_%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B5%D0%B9%D1%88%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/pic/m4_t4.jpg)
+<p align="center">
+  <img src="https://github.com/OlgaSmolyakova/JavaWebDevelopment-Resouces/blob/master/%D0%A2%D0%B5%D0%BC%D0%B0_04_%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87_%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B5%D0%B9%D1%88%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/pic/m4_t4.jpg" />
+</p>
 
 ## Задача 5
 Дано трехзначное число. Определите:
@@ -41,7 +41,9 @@
 ## Задача 8
 Вычислить значения функции на отрезке *[a,b]* c шагом *h*:
 
-![](https://github.com/OlgaSmolyakova/JavaWebDevelopment-Resouces/blob/master/%D0%A2%D0%B5%D0%BC%D0%B0_04_%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87_%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B5%D0%B9%D1%88%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/pic/m4_t8.jpg)
+<p align="center">
+  <img src="https://github.com/OlgaSmolyakova/JavaWebDevelopment-Resouces/blob/master/%D0%A2%D0%B5%D0%BC%D0%B0_04_%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87_%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B5%D0%B9%D1%88%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/pic/m4_t8.jpg" />
+</p>
 
 ## Задача 9
 Вычислить: (1+2) * (1+2+3) * ... * (1+2+...+10).
